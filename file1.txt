@@ -1,2 +1,5 @@
 New changes made by dev in feature 1 branch
 
+
+
+These changes are done in file1.txt by feature1 branch
