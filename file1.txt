@@ -1,2 +1,4 @@
 New changes made by dev in feature 1 branch
 
+These changes are done in master for file1.txt
+
