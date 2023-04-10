@@ -1,2 +1,4 @@
 There are changes here done by DevA
-DevB is doing new changes now - new changes by devA- doing changes to show conflicts
+iDevB is doing new changes now - new changes by devA- doing changes to show conflicts
+New changes by DevA
+find new changes
